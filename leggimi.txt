@@ -1,28 +1,27 @@
 THE PLAYER MANAGER versione 0.6 per Windows
 
-Questo gioco Ë il tributo ai classici creati da Dino Dini nel 1990.
+Questo gioco √® il tributo ai classici giochi creati per Commodore Amiga nel 1990: Player Manager e Kick Off 2
 Questo progetto riproduce fedelmente la stessa grafica, 
-sonoro e giocabilit‡ della versione per Commodore Amiga. 
-Nessuno sviluppatore originale Ë coinvolto nella realizzazione di questa versione,
-per il prossimo progetto di Dino Dini vai su: www.twitter.com/dndn1011 
-The Player Manager 2015 avr‡ nuove funzioni partendo dagli originali degli anni '90.
+sonoro e giocabilit√† della versione per Commodore Amiga. 
+Nessuno sviluppatore originale √® coinvolto nella realizzazione di questa versione.
+The Player Manager 2015 avr√† nuove funzioni partendo dagli originali degli anni '90.
 Per le prossime versioni seguici su: www.kickoffworld.net
 
-Player Manager, appunto, Ë un gioco di calcio manageriale,
+Player Manager, appunto, √® un gioco di calcio manageriale,
 dove si deve gestire una squadra di calcio e portarla ai massimi livelli,
 comprando giocatori e impostando la tattica di gioco e la formazione che scende in campo.
 
 Questa versione, include in aggiunta maglie diverse per ogni squadra,
-terreni di gioco differenti, classifica marcatori e altre novit‡.
+terreni di gioco differenti, classifica marcatori e altre novit√†.
 
-Ora Ë possibile controllare il nostro Player Manager o l'intera squadra durante la partita
+Ora √® possibile controllare il nostro Player Manager o l'intera squadra durante la partita
 (a patto che ci sia in campo anche lui).
 
-Per muovere i giocatori Ë possibile usare il joystick, oppure la tastiera
+Per muovere i giocatori √® possibile usare il joystick, oppure la tastiera
 usando i TASTI FRECCE e CTRL oppure Q W O K e SPAZIO.
 
 
-Durante la partita, Ë possibile utilizzare i seguenti tasti:
+Durante la partita, √® possibile utilizzare i seguenti tasti:
 
 F1- cambia visuale fullscreen/finestra
 
@@ -43,12 +42,12 @@ X - fattore di zoom del radar
 F - inquadra un giocatore, selezionabile con i tasti frecce del tastierino numerico
 
 R - Guarda il Replay degli ultimi 10 secondi, premere di nuovo per tornare alla partita
-    (il replay Ë attivo dopo 10 secondi dall'entrata in campo)
+    (il replay √® attivo dopo 10 secondi dall'entrata in campo)
 
-S - Cambia la velocit‡ del Replay (Normale\Lenta)
+S - Cambia la velocit√† del Replay (Normale\Lenta)
 
 
-N.B.:  Nel caso il gioco non dovesse funzionare, Ë probabile che non siano
+N.B.:  Nel caso il gioco non dovesse funzionare, √® probabile che non siano
        installati i driver della scheda video.
 
 
@@ -64,29 +63,29 @@ Modifiche rispetto alla versione 0.5
 -risolto bug del controllo del giocatore senza limiti di campo
 -aggiunta esultanza del giocatore dopo il gol
 -eliminato sfarfallio giocatore mentre insegue il pallone
--il pallone nelle mani del portiere ora Ë uguale al pallone in gioco
+-il pallone nelle mani del portiere ora √® uguale al pallone in gioco
 
 Modifiche rispetto alla versione 0.4
--Aggiunti i calci di punizione diretti se la distanza dalla porta Ë minore di 32 metri oppure se si tiene
+-Aggiunti i calci di punizione diretti se la distanza dalla porta √® minore di 32 metri oppure se si tiene
  premuto il pulsante mentre il giocatore che ha subito fallo si sta rialzando, a condizione che
  il fallo sia stato subito nella metacampo avversaria.
 -Aggiunto After-TOuch ai calci d'angolo
--Dopo aver saltato per colpire di testa, Ë possibile direzionare il pallone
+-Dopo aver saltato per colpire di testa, √® possibile direzionare il pallone
 -Risolto bug del giocatore che accompagna l'espulso fuori dal campo
--Migliorata la creazione del dato abilit‡
+-Migliorata la creazione del dato abilit√†
 -Migliorato il tiro tramite pulsante
--nella partita veloce, il controllo dei giocatori Ë sempre gestito dal computer
+-nella partita veloce, il controllo dei giocatori √® sempre gestito dal computer
 
 
 Modifiche rispetto alla versione 0.3.3
--Possibilit‡ di vedere il Replay degli ultimi 10 secondi (reali) e salvarlo
--Aggiunta Modalit‡ "DIMOSTRAZIONE ARCADE"
+-Possibilit√† di vedere il Replay degli ultimi 10 secondi (reali) e salvarlo
+-Aggiunta Modalit√† "DIMOSTRAZIONE ARCADE"
 -Aggiunta notifica del nome del marcatore
 -E' possibile vedere qualsiasi partita cliccando sulla scritta "VS" (premere "E" per uscire)
--Aggiunta la possibilit‡ di controllare i giocatori in partita tramite joystick/tastiera
+-Aggiunta la possibilit√† di controllare i giocatori in partita tramite joystick/tastiera
 -Campi originali di Player Manager/KickOff2 + 4 campi nuovi
 -Aggiunto After-TOuch
--Portieri pi˘ vicino alla linea di porta
+-Portieri pi√π vicino alla linea di porta
 -Risolto bug dei troppi rigori sbagliati dalla cpu
 -Notifica gol su rigore\gol sbagliato nel tabellino
 -Passaggi migliorati
@@ -96,9 +95,9 @@ Modifiche rispetto alla versione 0.3
 -supporto multilingua
 -tastiera migliorata nella versione android
 -fullscreen per la partita
--Ë possibile inserire testo direttamente da tastiera nella versione windows
+-√® possibile inserire testo direttamente da tastiera nella versione windows
 -Risolto bug del dopo calci di rigore in coppa
 -Risolto bug del pallone che si blocca sulla traversa(?)
--aggiunta possibilit‡ di cancellare Sostituzioni
+-aggiunta possibilit√† di cancellare Sostituzioni
 -aggiunto AI per cross in area
 -aggiunto cursore con la forma di pallone
