@@ -1,0 +1,430 @@
+THE PLAYER MANAGER
+POR
+DIF
+CEN
+ATT
+Portiere
+Difensore
+Centrocampo
+Attaccante
+Settimana
+PORTIERE
+DIFESA
+CENTRO
+ATTACCO
+Classifica
+Risultati
+Partite
+Marcatori
+PT
+G
+V
+N
+P
+GF
+GS
+istant.
+veloce
+normale
+Serie
+A
+B
+C
+D
+Abilità Squadra:
+Portieri
+Difensori
+Centrocampisti
+Attaccanti
+Allena squadra
+Gestione tattiche
+Facciamo riposo
+Allena extra
+Giocatori comprati
+Stipendi
+Nuovi contratti
+Interessi
+Altre spese
+Giocatori venduti
+Incassi campionato
+Incassi coppa
+Sponsors
+Altre entrate
+Totale
+Bilancio corrente
+Limite di credito
+Finanze disponibili
+Giocatori comprati
+Giocatori venduti
+Possesso palla
+Tiri totali
+Tiri in porta
+Calci d'angolo
+Falli subiti
+Ammoniti
+Espulsi
+portiere
+maglia 1
+maglia 2
+maglia 3
+CARICA PARTITA
+SALVA PARTITA
+CARICA NOMI SQUADRE
+SALVA NOMI SQUADRE
+CARICA TATTICA
+SALVA TATTICA
+SELEZIONA TATTICA
+Nome File
+Giudizio Manageriale
+Siamo soddisfatti, stai facendo un ottimo lavoro!
+Il consiglio è soddisfatto!
+Il consiglio è felice!
+Siamo soddisfatti ma ci aspettiamo miglioramenti!
+Siamo preoccupati, la situazione deve migliorare!
+Il consiglio è molto preoccupato!
+Il consiglio trova la situazione vergognosa!
+Il consiglio sta valutando la tua posizione!
+Hai la piena fiducia del consiglio!
+La situazione è disperata. Devi fare qualcosa!
+Anno/Settimana
+Squadra
+Player-Manager
+O.K.
+Annulla
+CANCELLA
+Stai già usando questa tattica!
+Una pausa ci voleva proprio!
+E' permesso cambiare solo una tattica a settimana!
+Non possiamo permetterci una spesa così alta!
+Non puoi avere in squadra più di 24 giocatori!
+Perchè vuoi comprare un giocatore già tuo?
+Puoi provare a comprare solo due giocatori per settimana.
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, abbiamo perso la semifinale!
+Abbiamo perso la finale! Ottimo risultato comunque!
+Bel risultato! Abbiamo superato il turno!
+Bel risultato! Accediamo al 3° turno!
+Buon risultato! Siamo nei quarti!
+Ottimo risultato! Siamo in semifinale!
+Risultato eccellente! Siamo in finale!
+CAMPIONI!! Champagne per i ragazzi!
+Purtroppo sei stato esonerato!
+Purtroppo siamo stati liquidati!
+<TEAM> vuole farti un'offerta per <GIOC>
+Problemi di folla a <TEAM>! Multa di <DATA>K!
+Accordo di sponsorizzazione di <DATA>K per <TEAM>!
+Siamo stati promossi in <DATA>! Il nostro nuovo limite di credito è <DATA2>K!
+Siamo stati retrocessi in <DATA>! Il nostro nuovo limite di credito è <DATA2>K!
+Attendere mentre vengono creati i dati di gioco
+Le Squadre
+Carica
+Salva
+Fatto
+Campionato - Settimana <DATA>
+<GIOC>, giocatore primavera, è stato promosso in prima squadra!
+Squadra
+Campionato
+Coppa
+Club
+Allenatore
+Mercato
+Tattiche
+Partita
+Opzioni
+Nuova Stagione
+Vincitori
+Finalisti
+Semifinali
+Quarti
+Records di Squadra
+ANNO  Div Pos  G  V  N  P  GF GS  PT
+Finanze
+entrate
+uscite
+ultima settimana
+questa settimana
+giocatori
+Percentuale di successo:
+Dimissioni
+Vuoi dare le dimissioni come manager di <TEAM>?
+SI!
+NO!
+Il morale è alle stelle!
+Il morale è ok!
+Sicuramente non è un problema di fiducia, mister!
+Non stiamo facendo del nostro meglio!
+Ci sono discussioni negli spogliatoi!
+I ragazzi sono un po' depressi!
+L'Allenatore
+Allena la Squadra
+Giocatore          ruolo nuovo
+riallena:
+Cancella
+Cambia Tattiche
+Lista Trasferimenti
+giù
+su
+Giocatore        età Squadra      serie
+D'accordo
+Hmmm...
+No Grazie
+Giocatori:
+1° turno
+2° turno
+3° turno
+Quarti
+Semifinali
+Finale
+Fase fin.
+La Coppa
+Quarti di finale
+Semifinali
+Finale
+-e-
+-r-
+VS
+vel.
+vedi
+PARTITE IN CORSO...
+in casa contro <TEAM>
+fuori casa contro <TEAM>
+contro <TEAM>
+Ruolo
+Età
+Altezza
+Peso
+Velocità
+Agilità
+Energia
+Recupero
+Aggressività
+Morale
+Passaggio
+Tiro
+Contrasto
+Parata
+Basso
+Nervoso
+Buono
+Ottimo
+Eccell.
+Eccell.
+pres
+reti
+m.v.
+Cop
+A
+B
+C
+D
+Dati del giocatore
+Nome
+cm
+kg
+Abilità
+PREZZO
+Disponibile
+COMPRA GIOCATORE
+Storia
+Ruolo
+Età
+Contratto
+Valore
+Stato di salute
+Stato disciplinare
+Stato trasferimento
+Nega trasferimento
+Trasferisci giocatore
+Canc. trasferimento
+Stato del giocatore
+Il giocatore ha un'ammonizione
+Il giocatore ha <DATA> ammonizioni
+Squalificato per una giornata
+Squalificato per <DATA> giornate
+Infortunato per <DATA>
+In lista trasferimenti
+In lista trasferimenti da <DATA>
+Richiede il trasferimento
+Richiede il trasferimento da <DATA>
+Offri nuovo contratto
+anni
+NO!
+Smetti di essere un giocatore!
+Ora per smettere premi O.K., oppure clicca qui per annullare!
+Squadra
+Reti Giocatore          Squadra
+remake ispirato al gioco creato da
+Dino Dini e Steve Screech nel 1989
+Questo gioco è una riproduzione
+molto fedele del gioco originale,
+con l'aggiunta di nuove opzioni:
+ogni squadra ha la propria maglia,
+vari terreni di gioco, replay, 
+e molte altre novità...!
+Per le prossime versioni seguici su:
+INIZIA
+VENDI GIOCATORE
+COMPRA GIOCATORE
+OFFERTA
+PREZZO
+Nome
+Ruolo
+Età
+Abilità
+Disponibile
+ACQUISTA
+Cancella
+Accetta
+l'offerta
+Contro
+offerta
+ESCI
+I
+E
+R
+T
+C
+Giocatore          età ruolo nr status
+Nome tattica:
+Giocatore          ruolo nr
+LA FORMAZIONE E' INCOMPLETA!
+VUOI PROCEDERE LO STESSO?
+SI
+NO
+Le Formazioni
+una settimana
+settimane
+un mese
+oltre un mese
+oltre <DATA> mesi
+Falli subiti
+Tiri in porta
+Tiri totali
+Possesso palla
+è stato squalificato
+si è infortunato
+<GIOC> rientra dalla squalifica
+<GIOC> ha recuperato dall'infortunio
+<GIOC> richiede il trasferimento
+Settimana
+Anno
+P
+S
+A
+E
+Sost
+CALCI DI RIGORE
+T
+TS
+Suono ON
+Suono OFF
+Sostituisci
+Tattica
+Maglia
+Sostituzione per
+Cambio tattica per
+fatto
+rimessa laterale
+rimessa dal fondo
+calcio d'angolo
+GOAL! -
+Records di Squadra
+Finanze Disponibili
+Giudizio Manageriale
+Fatto
+Il Club
+OPZIONI DI GIOCO
+Visualizza risultati altre partite
+Salva dati nella memoria interna
+Salva dati su supporto esterno
+FULLSCREEN partita automatico
+Salva la partita
+Questa è la versione demo! Per salvare la carriera e guardare i replay, scarica le versioni android o windows su:
+CONTINUA
+ESCI
+Italiani
+Inglesi
+Seleziona Nomi
+Nuovo Gioco
+Carica Gioco
+Dimostrazione
+Anno
+Squadra
+Player-Manager
+Età
+Ruolo
+GIOCA IN POSIZIONE
+GIOCA COME SQUADRA
+Versione per dispositivi android
+L'applicazione accede ad un supporto
+per salvare i dati di gioco.
+All'inizio del gioco verrà creata una
+cartella chiamata
+in cui verranno salvati tutti i dati.
+Cliccare su CONTINUA per selezionare
+il tipo di supporto desiderato.
+CONTINUA
+Memoria interna
+Supporto esterno
+Seleziona il supporto su
+cui salvare i dati di gioco
+Versione FLASH
+La versione Flash ha molte limitazioni.
+Non è possibile salvare i dati di
+gioco nè editare le maglie.
+Nella versione completa è possibile
+salvare la carriera, tattiche e maglie.
+Per poter sfruttare tutte le opzioni
+Scarica le versioni WINDOWS e ANDROID
+CONTINUA
+Questa è una versione beta in lavorazione, se trovi qualche bug o errore saremo molto felici se ce lo comunicassi su:
+Qualsiasi aiuto o contributo sarà ben accetto!!
+Dimostrazione Arcade
+Marcatore:
+R
+calcio di rigore
+Fallo di <GIOC>
+<GIOC> ammonito!
+<GIOC> espulso!
+<GIOC> infortunato!
+CARICA REPLAY
+SALVA REPLAY
+Guarda Replay Salvati
+punizione - distanza:
+Versione HTML5
+La versione HTML5 ha molte limitazioni.
+Esce:
+Entra:
+Questo gioco è il tributo ai classici creati da Dino Dini nel 1990. Questo progetto riproduce fedelmente la stessa grafica, sonoro e giocabilità della versione per Commodore Amiga. Nessuno sviluppatore originale è coinvolto nella realizzazione di questa versione, per il prossimo progetto di Dino Dini vai su: www.twitter.com/dndn1011 
+The Player Manager 2015 avrà nuove funzioni partendo dagli originali degli anni '90. Per le prossime versioni seguici su:
+1a
+2a
+3a
+4a
+5a
+6a
+7a
+8a
+9a
+10a
+11a
+12a
+13a
+14a
+15a
+16a
+17a
+18a
+19a
+20a
+21a
+22a
+---
+Controllo di palla
+Facile
+Normale
+Difficile
+
+<fine testi di gioco>

@@ -1,0 +1,26 @@
+TPM bugs
+
+FF: 3a should be 3rd
+FF: Windows pointer on top of PM ball
+FF: Playing on fast/normal - ball noises missing
+FF: Sounds are cut short
+FF: Keeper holds a white ball
+6: Player stats ( what is a.r ) 
+7: Players you own/buy don`t have any previous playing experience.
+8: Cup games with really high scores
+FF: Playing in position _ you can run way off the pitch.
+FF: Heading bug, when the ball is in the air and you jump them change direction ready for the player to make contact. It doesn`t recognise the change in joytick direction.
+FF: Sometimes after touch doesn`t work.
+FF: When you score the ball goes in the back of the net and looks correct. When you watch a replay the ball seems to sit on top of the net.
+13: When you`re chasing a CPU play who has the ball, he seems to have a box around him that you can`t enter ( get close to )
+FF: After a sub there was hardly any kick sounds at all.
+15: Shadow of ball on wet ( dark ) pitch is hard to see ( it`s green )
+FF: Missing goal celebrations. 
+17: No header noise.
+18: Keeper never throws the ball out.
+19: Reserves ( players that make up your team when you don`t have enough ) Their names aren`t initialised.
+for example b.babb instead of B.Babb ( it`s Babb in the names file ) 
+20: 3: should be week 3
+21: You cannot do a standing header, it jumps in the direction the player is facing. 
+22: Animation glitch on player goal celebration. 
+23: No dribble sounds.
