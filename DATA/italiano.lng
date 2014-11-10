@@ -31,7 +31,7 @@ A
 B
 C
 D
-Abilit‡ Squadra:
+Abilit√† Squadra:
 Portieri
 Difensori
 Centrocampisti
@@ -77,27 +77,27 @@ SELEZIONA TATTICA
 Nome File
 Giudizio Manageriale
 Siamo soddisfatti, stai facendo un ottimo lavoro!
-Il consiglio Ë soddisfatto!
-Il consiglio Ë felice!
+Il consiglio √® soddisfatto!
+Il consiglio √® felice!
 Siamo soddisfatti ma ci aspettiamo miglioramenti!
 Siamo preoccupati, la situazione deve migliorare!
-Il consiglio Ë molto preoccupato!
+Il consiglio √® molto preoccupato!
 Il consiglio trova la situazione vergognosa!
 Il consiglio sta valutando la tua posizione!
 Hai la piena fiducia del consiglio!
-La situazione Ë disperata. Devi fare qualcosa!
+La situazione √® disperata. Devi fare qualcosa!
 Anno/Settimana
 Squadra
 Player-Manager
 O.K.
 Annulla
 CANCELLA
-Stai gi‡ usando questa tattica!
+Stai gi√† usando questa tattica!
 Una pausa ci voleva proprio!
 E' permesso cambiare solo una tattica a settimana!
-Non possiamo permetterci una spesa cosÏ alta!
-Non puoi avere in squadra pi˘ di 24 giocatori!
-PerchË vuoi comprare un giocatore gi‡ tuo?
+Non possiamo permetterci una spesa cos√¨ alta!
+Non puoi avere in squadra pi√π di 24 giocatori!
+Perch√® vuoi comprare un giocatore gi√† tuo?
 Puoi provare a comprare solo due giocatori per settimana.
 Peccato, siamo stati eliminati dalla coppa!
 Peccato, siamo stati eliminati dalla coppa!
@@ -105,7 +105,7 @@ Peccato, siamo stati eliminati dalla coppa!
 Peccato, abbiamo perso la semifinale!
 Abbiamo perso la finale! Ottimo risultato comunque!
 Bel risultato! Abbiamo superato il turno!
-Bel risultato! Accediamo al 3∞ turno!
+Bel risultato! Accediamo al 3¬∞ turno!
 Buon risultato! Siamo nei quarti!
 Ottimo risultato! Siamo in semifinale!
 Risultato eccellente! Siamo in finale!
@@ -115,15 +115,15 @@ Purtroppo siamo stati liquidati!
 <TEAM> vuole farti un'offerta per <GIOC>
 Problemi di folla a <TEAM>! Multa di <DATA>K!
 Accordo di sponsorizzazione di <DATA>K per <TEAM>!
-Siamo stati promossi in <DATA>! Il nostro nuovo limite di credito Ë <DATA2>K!
-Siamo stati retrocessi in <DATA>! Il nostro nuovo limite di credito Ë <DATA2>K!
+Siamo stati promossi in <DATA>! Il nostro nuovo limite di credito √® <DATA2>K!
+Siamo stati retrocessi in <DATA>! Il nostro nuovo limite di credito √® <DATA2>K!
 Attendere mentre vengono creati i dati di gioco
 Le Squadre
 Carica
 Salva
 Fatto
 Campionato - Settimana <DATA>
-<GIOC>, giocatore primavera, Ë stato promosso in prima squadra!
+<GIOC>, giocatore primavera, √® stato promosso in prima squadra!
 Squadra
 Campionato
 Coppa
@@ -151,9 +151,9 @@ Dimissioni
 Vuoi dare le dimissioni come manager di <TEAM>?
 SI!
 NO!
-Il morale Ë alle stelle!
-Il morale Ë ok!
-Sicuramente non Ë un problema di fiducia, mister!
+Il morale √® alle stelle!
+Il morale √® ok!
+Sicuramente non √® un problema di fiducia, mister!
 Non stiamo facendo del nostro meglio!
 Ci sono discussioni negli spogliatoi!
 I ragazzi sono un po' depressi!
@@ -164,16 +164,16 @@ riallena:
 Cancella
 Cambia Tattiche
 Lista Trasferimenti
-gi˘
+gi√π
 su
-Giocatore        et‡ Squadra      serie
+Giocatore        et√† Squadra      serie
 D'accordo
 Hmmm...
 No Grazie
 Giocatori:
-1∞ turno
-2∞ turno
-3∞ turno
+1¬∞ turno
+2¬∞ turno
+3¬∞ turno
 Quarti
 Semifinali
 Finale
@@ -192,14 +192,14 @@ in casa contro <TEAM>
 fuori casa contro <TEAM>
 contro <TEAM>
 Ruolo
-Et‡
+Et√†
 Altezza
 Peso
-Velocit‡
-Agilit‡
+Velocit√†
+Agilit√†
 Energia
 Recupero
-Aggressivit‡
+Aggressivit√†
 Morale
 Passaggio
 Tiro
@@ -223,13 +223,13 @@ Dati del giocatore
 Nome
 cm
 kg
-Abilit‡
+Abilit√†
 PREZZO
 Disponibile
 COMPRA GIOCATORE
 Storia
 Ruolo
-Et‡
+Et√†
 Contratto
 Valore
 Stato di salute
@@ -257,12 +257,12 @@ Squadra
 Reti Giocatore          Squadra
 remake ispirato al gioco creato da
 Dino Dini e Steve Screech nel 1989
-Questo gioco Ë una riproduzione
+Questo gioco √® una riproduzione
 molto fedele del gioco originale,
 con l'aggiunta di nuove opzioni:
 ogni squadra ha la propria maglia,
 vari terreni di gioco, replay, 
-e molte altre novit‡...!
+e molte altre novit√†...!
 Per le prossime versioni seguici su:
 INIZIA
 VENDI GIOCATORE
@@ -271,8 +271,8 @@ OFFERTA
 PREZZO
 Nome
 Ruolo
-Et‡
-Abilit‡
+Et√†
+Abilit√†
 Disponibile
 ACQUISTA
 Cancella
@@ -286,7 +286,7 @@ E
 R
 T
 C
-Giocatore          et‡ ruolo nr status
+Giocatore          et√† ruolo nr status
 Nome tattica:
 Giocatore          ruolo nr
 LA FORMAZIONE E' INCOMPLETA!
@@ -303,8 +303,8 @@ Falli subiti
 Tiri in porta
 Tiri totali
 Possesso palla
-Ë stato squalificato
-si Ë infortunato
+√® stato squalificato
+si √® infortunato
 <GIOC> rientra dalla squalifica
 <GIOC> ha recuperato dall'infortunio
 <GIOC> richiede il trasferimento
@@ -341,7 +341,7 @@ Salva dati nella memoria interna
 Salva dati su supporto esterno
 FULLSCREEN partita automatico
 Salva la partita
-Questa Ë la versione demo! Per salvare la carriera e guardare i replay, scarica le versioni android o windows su:
+Questa √® la versione demo! Per salvare la carriera e guardare i replay, scarica le versioni android o windows su:
 CONTINUA
 ESCI
 Italiani
@@ -353,14 +353,14 @@ Dimostrazione
 Anno
 Squadra
 Player-Manager
-Et‡
+Et√†
 Ruolo
 GIOCA IN POSIZIONE
 GIOCA COME SQUADRA
 Versione per dispositivi android
 L'applicazione accede ad un supporto
 per salvare i dati di gioco.
-All'inizio del gioco verr‡ creata una
+All'inizio del gioco verr√† creata una
 cartella chiamata
 in cui verranno salvati tutti i dati.
 Cliccare su CONTINUA per selezionare
@@ -372,15 +372,15 @@ Seleziona il supporto su
 cui salvare i dati di gioco
 Versione FLASH
 La versione Flash ha molte limitazioni.
-Non Ë possibile salvare i dati di
-gioco nË editare le maglie.
-Nella versione completa Ë possibile
+Non √® possibile salvare i dati di
+gioco n√® editare le maglie.
+Nella versione completa √® possibile
 salvare la carriera, tattiche e maglie.
 Per poter sfruttare tutte le opzioni
 Scarica le versioni WINDOWS e ANDROID
 CONTINUA
-Questa Ë una versione beta in lavorazione, se trovi qualche bug o errore saremo molto felici se ce lo comunicassi su:
-Qualsiasi aiuto o contributo sar‡ ben accetto!!
+Questa √® una versione beta in lavorazione, se trovi qualche bug o errore saremo molto felici se ce lo comunicassi su:
+The Player Manager 2015 √® un‚Äôopera originale sviluppata dalla comunit√† di Kick Off World, qualsiasi aiuto o contributo sar√† ben accetto sul nostro account github: github.com/kickoffworld/OpenPlayerManager
 Dimostrazione Arcade
 Marcatore:
 R
@@ -397,8 +397,8 @@ Versione HTML5
 La versione HTML5 ha molte limitazioni.
 Esce:
 Entra:
-Questo gioco Ë il tributo ai classici creati da Dino Dini nel 1990. Questo progetto riproduce fedelmente la stessa grafica, sonoro e giocabilit‡ della versione per Commodore Amiga. Nessuno sviluppatore originale Ë coinvolto nella realizzazione di questa versione, per il prossimo progetto di Dino Dini vai su: www.twitter.com/dndn1011 
-The Player Manager 2015 avr‡ nuove funzioni partendo dagli originali degli anni '90. Per le prossime versioni seguici su:
+Questo √® un gioco di calcio manageriale gratuito liberamente ispirato ai giochi pubblicati da Anco: Kick Off 2 e Player Manager. 
+Questo retrogame riproduce fedelmente la grafica 2D del Commodore Amiga, con la stessa visuale dall‚Äôalto e azioni frenetiche. The Player Manager 2015 √® ancora in fase di sviluppo e sar√† aggiornato regolarmente, inscriviti ai nostri social da qui:
 1a
 2a
 3a
