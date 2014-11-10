@@ -15,6 +15,7 @@ for example b.babb instead of B.Babb ( it`s Babb in the names file )
 21: You cannot do a standing header, it jumps in the direction the player is facing. 
 22: Animation glitch on player goal celebration. 
 23: No dribble sounds.
+24: Alt F1 doesn't go full screen (mac only?)
 
 FF: 3a should be 3rd
 FF: Windows pointer on top of PM ball
