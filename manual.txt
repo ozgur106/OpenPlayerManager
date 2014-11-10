@@ -1,4 +1,8 @@
-Football Player Manager - Manual
+The Football Player Manager - Manual
+
+A free Football management game inspired by Anco games Kick Off 2 & Player Manger.
+The Player Manager 2015 source code is 100% original work. Made by “Kick Off World” community members
+This retro game reproduces the Commodore Amiga 2D graphics, with top down full size fields and fast gameplay.
 
 CONTROLS : MANAGER - MOUSE Control
          : THE MATCH - Keyboard/touch screen Control
