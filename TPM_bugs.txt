@@ -1,4 +1,4 @@
-The Player MManager bugs
+The Player Manager bugs
 
 FF= fixed bug
 
@@ -17,6 +17,7 @@ for example b.babb instead of B.Babb ( it`s Babb in the names file )
 23: No dribble sounds.
 24: on Mac fn F1 doesn't go full screen, fullscreen works on action game only
 25: on mac main menu and "about" option say: "MonkeyGame Vesion 1.0 (1)" instead "The Player Manager 2015 v0.6"
+26: When you introduce a sub, his name is all in CAPS.
 
 FF: 3a should be 3rd
 FF: Windows pointer on top of PM ball
