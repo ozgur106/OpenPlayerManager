@@ -11,3 +11,8 @@ But where PM really holds it own is on the management side. Here, in amongst all
 A lot of the menus and options cover old ground, but in the case of player transfer markets and financial details, that is unavoidable. However, possibly one of the most impressive options yet seen on a managerial game, and the keystone to addictiveness and involvement of this game, is the Tactics option. Forget selecting 4-24 or 4-3-3, PM lets you plan all your set pieces just the way you want them. An infinite amount of different strategies are available for you, the only limit is your imagination. By placing the players in the best positions for your style of play, and marking out approximate ‘trace’ lines, telling each player where they should be for any given moment, you will never be able to say that you are not in full control of your game.
 
 At last a management game that requires true management skills. Add to that the most addictive arcade soccer game ever.
+
+follow us on:
+www.facebook.com/Kickoff2world
+twitter.com/KickOffWorld
+www.youtube.com/channel/UC5Q2bOLSmHy73XOkggOeemw
