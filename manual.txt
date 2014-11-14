@@ -7,8 +7,13 @@ You  can  play  this  game  without  even reading this manual, but it is unlikel
 
 We hope you enjoy this old-school soccer game
 Any constructive suggestions are most welcome on our github repository: github.com/kickoffworld/OpenPlayerManager/
+follow us on our social accounts:
+https://www.facebook.com/Kickoff2world
+https://twitter.com/KickOffWorld
+https://www.youtube.com/channel/UC5Q2bOLSmHy73XOkggOeemw
 
-CONTROLS : MANAGER - MOUSE Control
+
+CONTROLS : MANAGER - Mouse/touchpad/touch screen Control
          : THE MATCH - Keyboard/touch screen Control
 
 INTRODUCTION
