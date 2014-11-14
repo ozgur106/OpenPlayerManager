@@ -1,0 +1,452 @@
+THE PLAYER MANAGER
+GKP
+DEF
+MID
+FWD
+Goalkeeper
+Defender
+Midfielder
+Forward
+Week
+KEEPER
+DEFENDER
+MIDFIELD
+FORWARD
+Tables
+Results
+Fixtures
+Scorers
+PT
+P
+W
+D
+L
+GF
+GA
+Result
+Fast
+Normal
+Div
+1
+2
+3
+4
+Team Skills:
+Goalkeepers
+Defenders
+Midfielders
+Strikers
+Team training
+Tactical training
+Take a break
+Extra training
+Players bought
+Players wages
+New contracts
+Interest
+Other expenses
+Players sold
+Match earnings
+Cup earnings
+Sponsors
+Other revenue
+Total
+Current budget
+Overdraft facility
+Total available
+Players bought
+Players sold
+Ball Possession
+Total shots
+Shots on goal
+Corner kicks
+Fouls suffered
+Yellow cards
+Red cards
+goalkeep
+Shirt 1
+Shirt 2
+Shirt 3
+LOAD GAME
+SAVE GAME
+LOAD TEAM NAMES
+SAVE TEAM NAMES
+LOAD TACTIC
+SAVE TACTIC
+SELECT TACTIC
+File Name
+Managerial Assessment
+The Board is delighted.
+Keep up the good work!
+The Board is pleased..
+The Board is happy..
+The Board is satisfied, but would welcome improvement..
+The Board is unhappy..The Board is worried.
+Things had better improve..
+The Board finds the current situation disgraceful.
+The Board regards your position as most tenuous under present circumstances..
+You have the board's full confidence..
+Year/Week
+Team
+Player-Manager
+O.K.
+Cancel
+DELETE
+You're already using this tactic!
+A break was what we needed!
+Allowed to change only one tactic per week!
+We can't afford spending so high!
+You can't have more than 24 team players!
+Why would you buy a player already yours?
+You can only buy two players per week.
+Pity, we were eliminated from the Cup!
+Pity, we were eliminated from the Cup!
+Pity, we were eliminated from the Cup!
+Pity, we lost the semifinal!
+We lost in the final! Very good result anyway!
+Nice result! We passed the round!
+Nice result! Access to round 3!
+Good result! We are in the quarters!
+Excellent result! We are in the semifinals!
+Excellent result! We are in the final!
+CHAMPIONS!! Champagne for the guys!
+Unfortunately you have been sacked!
+Unfortunately we were cleared!
+<TEAM> wants to make you an offer for <GIOC>
+Crowd problems at <TEAM>! <DATA> K fine!
+Sponsorship deal <DATA>K for <TEAM>!
+We were promoted to <DATA>! Our new credit limit is <DATA2> K!
+We were relegated to <DATA>! Our new credit limit is <DATA2> K!
+Please wait while game data is created
+The Teams
+Load
+Save
+Done
+League - Week <DATA>
+<GIOC>, a young player was promoted to the first team!
+Team
+League
+Cup
+Club
+Coach
+Transfers
+Tactics
+Match day
+Options
+New Season
+Cup Winners
+Finalists
+SemiFinalists
+Qtr-Finalists
+Club Records
+YEAR  Div Pos  P  W  D  L  GF GA  PT
+Finances
+In
+Out
+Previous week
+This week
+Managers career figures
+Success rate:
+Resign
+Resign as manager of <TEAM>?
+YES!
+NO!
+We're all over the moon!
+Morale is superb!
+Definitely no confidence problems here boss!
+Morale is very good.
+There are the beginnings of doubt among our players.
+Depression has set in amongst the lads
+The Coach
+Squad Training
+Player              Pos   New
+Retrain:
+Delete
+Change Tactics
+Transfer List
+down
+up
+Player           Age Team           Div
+Agreed
+Hmmm ...
+No thanks
+Players:
+1st round
+2nd round
+3rd round
+Quarter-finals
+Semi-finals
+Final
+Finals
+The Cup
+Quarter-finals
+Semi-finals
+Final
+aet
+pen
+VS
+Fast
+Watch
+MATCH IN PROGRESS ...
+at home against <TEAM>
+away against <TEAM>
+against <TEAM>
+Position
+Age
+Height
+Weight
+Pace
+Agility
+Stamina
+Resilience
+Aggression
+Morale
+Passing
+Shooting
+Tackling
+Keeping
+Low
+Unhappy
+Ok
+Good
+Great
+Excel
+Games
+Goals
+Avg
+Int
+1
+2
+3
+4
+Player Information
+Name
+cm
+kg
+Skills
+PRICE
+Available
+BUY PLAYER
+History
+Pos
+Age
+Contract
+Valuation
+Player fitness
+Disciplinary
+Transfer status
+Deny transfer
+Transfer Player
+Cancel transfer
+Player status
+The player has a yellow card
+The player has <DATA> yellow cards
+Suspended for a week
+Suspended for <DATA> weeks
+Injured for <DATA>
+Transfer list
+On Transfer list from <DATA>
+requests a transfer
+Requests a transfer from <DATA>
+Offer a new contract
+years
+NO!
+Stop being a player!
+To stop press O.K. now, or click here to cancel!
+Team
+Goal Player             Team
+Retrogame  largely inspired by Kick Off 2 & Player Manager
+from ANCO in 1990
+This game is a remake,
+very close to the original game graphics by Steve Screech,
+with the addition of many new options:
+each team has its own custom jersey,
+various pitches, replay,
+and many other new additions...!
+For the next version follow us on:
+START
+SELL PLAYER
+BUY PLAYER
+OFFER
+PRICE
+Name
+Pos
+Age
+Ability
+Available
+BUY
+Delete
+Accept
+the offer
+Against
+offer
+EXIT
+I
+B
+R
+T
+C
+Player              Age Pos  No Status
+Tactic Name:
+Player              Pos  nr
+THE TEAM IS INCOMPLETE!
+YOU WANT TO CONTINUE ANYWAY?
+YES
+NO
+The line up
+one week
+weeks
+a month
+over a month
+over <DATA> months
+Fouls suffered
+Shots on Goal
+Total shots
+possession
+has been banned
+is injured
+<GIOC> is back from suspension
+<GIOC> has recovered from injury
+<GIOC> would like to advance his career, and so requests a transfer.
+Week
+Year
+P
+S
+A
+E
+Sub
+PENALTY KICKS
+T
+ET
+Sound ON
+Sound OFF
+Replace
+Tactics
+mesh
+replacement for
+Changing tactics for
+Done
+throw in
+goal kick
+corner
+GOAL
+Club Records
+Finances
+Managerial Assessment
+Done
+The Club
+GAME OPTIONS
+See other match results
+Save data in the internal memory
+Save data to external media
+Automatic MATCH FULLSCREEN
+Save Game
+This is the demo version! To save your career and watch replays, download versions for android or windows:
+continue
+exit
+Italian
+English
+Select Names
+New game
+Load Game
+Demo Game
+Year
+Team
+Player-Manager
+Age
+Position
+PLAY IN POSITION
+PLAY AS TEAM
+Version for Android devices
+The application accesses to a support
+to save game data.
+At the beginning of the game it will create a
+folder called
+in which all the data will be saved.
+Click CONTINUE to select
+the desired media type.
+CONTINUE
+Internal memory
+External support
+Select the support on
+save game data
+FLASH Version
+The Flash version has many limitations.
+You can not save data game
+and can not edit the shirts.
+In the full version you can
+save your career, tactics and shirts.
+To take advantage of all options
+Download ANDROID & WINDOWS versions.
+CONTINUE
+This is an early beta, if you find some errors in the translations please contact us on:
+Everybody is welcome to help on this project, any suggestions or bug reports can be also submitted to our github github.com/kickoffworld/OpenPlayerManager
+Demo Game Arcade
+Scorer:
+R
+Penalty kick
+Foul by <GIOC>
+<GIOC> yellow card!
+<GIOC> red card!
+<GIOC> injured!
+LOAD REPLAY
+SAVE REPLAY
+Watch Saved Replay
+free kick - distance:
+HTML5 Version
+The HTML5 version has many limitations.
+Off:
+On:
+A free Football management game inspired by Anco games Kick Off 2 & Player Manger.
+This retro game reproduces the Commodore Amiga 2D graphics, with top down full size fields and fast game play.
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+13th
+14th
+15th
+16th
+17th
+18th
+19th
+20th
+21st
+22nd
+---
+Ball control
+Easy
+Normal
+Hard
+The Board is delighted!
+Keep up the good work!
+The Board is pleased!
+The Board is happy!
+The Board is satisfied, but would welcome improvement!
+The Board is unhappy!
+The Board is worried. Things had better improve!
+The Board is most concerned!
+The Board finds the current situation disgraceful!
+The Board regards your position as most tenuous under present circumstances!
+You have the board's full confidence!
+We're all over the moon. Morale is superb!
+Definitely no confidence problem here boss!
+Morale is very good!
+Morale is good!
+Morale is OK!
+There are the beginnings of doubt among our players!
+We're not performing at our best!
+Depression has set in amongst the lads!
+I can hear many ominous murmurings in the changing rooms!
+Morale is rock bottom!
+There are fights amongst our players!
+
+<fine testi di gioco>
