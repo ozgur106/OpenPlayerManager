@@ -12,7 +12,10 @@ A lot of the menus and options cover old ground, but in the case of player trans
 
 At last a management game that requires true management skills. Add to that the most addictive arcade soccer game ever.
 
-follow us on:
+follow us on our social accounts:
+
 www.facebook.com/Kickoff2world
-twitter.com/KickOffWorld
+
+www.twitter.com/KickOffWorld
+
 www.youtube.com/channel/UC5Q2bOLSmHy73XOkggOeemw
