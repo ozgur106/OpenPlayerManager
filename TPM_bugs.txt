@@ -21,8 +21,7 @@ for example b.babb instead of B.Babb ( it`s Babb in the names file )
 27: It seem's computer forgot my "sub" request because a goal was scored inbetween. After that the request was deleted.
 28: After a substitution request, the computer wait that the ball go out to let proceed the substitution. But normally a foul is a game interruption, and the substitution should be possible at this moment.
 29: Strange bug: today starting a game: at the start whistle a change request was directly displayed. Surprise: the computer asked me to change an adverse player !!??
-30: It seems's that the goals scored in cup are added to the league scorers table. Is it right ?
-31: In the original version, in the player stats, we can see the stats of the last season (games, goals...) is it correct ?
+30: In the original version, in the player stats, we can see the stats of the last season (games, goals...) is it correct ?
 
 
 FF: 3a should be 3rd
