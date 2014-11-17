@@ -4,6 +4,7 @@ OpenPlayerManager
 We remake the football managerial game created for Commodore Amiga And Atari ST on 1990
 The game is partially open source, The Player Manager 2015 is an hybrid game inspired by Kick Off 2 (gfx, game logic), Player Manager, and other football manager games.
 The Player Manager 2015 source code is 100% original work made collectively by the Kick Off World community www.kickoffworld.net
+
 The Open Player Manager files are: translations, manuals, football player surnames, football teams, tournaments, field graphics (pitches) and football player graphics. Every fan are welcome to translate, redesign, improve it and share it with all the Kick Off World community.
 
 The mix between management and arcade is the best to have appeared in any football game, making it enthralling and addictive. There is a whole mess of extra options and choices that, added together, make this an unique Managerial Game. If you did own Kick Off and Player Manager already this is a must have game. If you did not own Kick Off or Player Manager you miss the most revolutionary soccer games ever created, this should be near the be the most fast paced football game ever developed and with the most accurate ball control and phisycs.
