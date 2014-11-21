@@ -1,9 +1,9 @@
 OpenPlayerManager
 =================
 
-We remake the football (soccer) managerial game created for Commodore Amiga And Atari ST on 1990
+We remake the football (soccer) managerial game created for Commodore Amiga And Atari ST on 1990: Player Manager
 
-An International class football player takes charge of a third division club as Player Maanger. His brief is simple - Bring Back The Glory Days.
+An International class football player takes charge of a third division club as Player Manager. His brief is simple - Bring Back The Glory Days.
 His success depends on his playing skills on the pitch and managerial skills in devising winning tactics, aquiring the right players from the transfer market and building a team worthy of the highest honours.
 
 The game is partially open source, The Player Manager 2015 is an hybrid game inspired by Kick Off 2 (gfx, game logic), Player Manager, and other football manager games.
@@ -34,3 +34,5 @@ www.facebook.com/Kickoff2world
 www.twitter.com/KickOffWorld
 
 www.youtube.com/channel/UC5Q2bOLSmHy73XOkggOeemw
+
+https://github.com/kickoffworld/OpenPlayerManager/
