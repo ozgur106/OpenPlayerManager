@@ -4,7 +4,7 @@ DEF
 MIL
 ATT
 Gardien
-Défenseur
+Defenseur
 Milieu
 Attaquant
 Sem.
@@ -12,9 +12,9 @@ Gardiens
 Defense
 Milieu
 Attaque
-Tableaux
-Résultats
-Matches
+Classement
+Resultats
+Affiches
 Buteurs
 PTS
 J
@@ -23,7 +23,7 @@ N
 P
 BP
 BC
-Résultat
+Resultat
 Acc.
 Normal
 Div
@@ -33,7 +33,7 @@ Div
 4
 FORCES:
 Gardiens
-Défense
+Defense
 Milieu
 Attaque
 ENTR. INDIV.
@@ -52,7 +52,7 @@ Sponsors
 Autres recettes
 Total
 Budget courant
-Limite de crédit
+Limite de credit
 Total disponible
 Achats de joueurs
 Vente de joueurs
@@ -83,7 +83,7 @@ Les dirigeants sont joyeux!
 Les dirigeants sont satisfaits, mais attendent mieux...
 Les dirigeants sont mecontents...
 On attend du changement...
-Les dirigeants pensent que la situation est délicate...
+Les dirigeants pensent que la situation est delicate...
 On parle beaucoup d'un nouvel entraineur...
 Vous avez toute notre confiance!
 An/Sem
@@ -92,18 +92,18 @@ Entraineur-Joueur
 OK
 Annuler
 SUPPRIMER
-Vous utilisez déjà cette tactique!
+Vous utilisez deja cette tactique!
 Une pause est bienvenue!
 Un seul changement tactique par semaine!
-Nous ne pouvons pas dépenser autant!
+Nous ne pouvons pas depenser autant!
 Pas plus de 24 joueurs!
 Vous voulez acheter votre propre joueur?
 Seulement 2 achats de joueurs par semaine.
-Quoi? Nous sommes deja éliminés!
-L'aventure en coupe est déjà finie...
+Quoi? Nous sommes deja elimines!
+L'aventure en coupe est deja finie...
 Dommage de manquer les demi-finales!
 Nous perdons en demi-finale...
-Une défaite en finale reste un bon résultat!
+Une defaite en finale reste un bon resultat!
 En route pour le tour suivant!
 Bravo, nous passons le second tour!
 Youhou! En quarts de finale!
@@ -113,23 +113,23 @@ La COUPE est a NOUS !!!
 VOUS ETES VIRE !
 Malheureusement nous devons nous expliquer!
 <TEAM> veut vous faire une offre pour <GIOC>
-Hooligans à <TEAM>! <DATA> K d'amende!
+Hooligans a <TEAM>! <DATA> K d'amende!
 Contrat sponsoring de <DATA>K pour <TEAM>!
-Nous sommes promus en <DATA>! Limite de crédit <DATA2> K!
-Nous sommes relegues en <DATA>! Limite de crédit <DATA2> K!
+Nous sommes promus en <DATA>! Limite de credit <DATA2> K!
+Nous sommes relegues en <DATA>! Limite de credit <DATA2> K!
 Un peu de patience...
 Les Equipes
 Load
 Save
 OK
 Ligue - Sem <DATA>
-<GIOC>, un junior du club intègre l'équipe!
+<GIOC>, un junior du club integre l'equipe!
 Equipe
 Ligue
 Coupe
 Club
 Coach
-Transferts
+Mercato
 Tactique
 Match
 Options
@@ -146,24 +146,24 @@ Finances
 Semaine dern.
 Cette semaine
 Statistiques du manager
-Taux de réussite:
+Taux de reussite:
 Abandonner!
-Quitter l'équipe de <TEAM>?
+Quitter l'equipe de <TEAM>?
 OUI!
 NON!
 Nous sommes sur un nuage!
 Le moral est au top!
-Aucun problème a signaler!
-Le moral est très bon.
-Les joueurs commencent à douter...
-La dépression nous guette...
+Aucun probleme a signaler!
+Le moral est tres bon.
+Les joueurs commencent a douter...
+La depression nous guette...
 Le COACH
-EntraÎnement
+Entrainement
 Joueur              Pos   Nouv.
 Changer:
 Quitter
 Changer Tactique
-Liste des transferts
+Mercato
 +
 -
 Joueur           Age Equipe          Div
@@ -187,9 +187,9 @@ tab
 VS
 Rapide
 Voir
-Préparation...
+Preparation...
 domicile VS <TEAM>
-extérieur VS <TEAM>
+exterieur VS <TEAM>
 contre <TEAM>
 Position
 Age
@@ -198,20 +198,20 @@ Poids
 Vitesse
 Agilite
 Endurance
-Résistance
-Agressivité
+Resistance
+Agressivite
 Moral
 Passes
 Shoot
 Tackle
-Conserv.
+Gardien
 Bas
-Mécontent
+Fache
 OK
 Bon
 Super
 Extra
-Matches
+Mat.
 Buts
 Moy.
 Int
@@ -227,7 +227,7 @@ Forces
 PRIX
 Disponible
 ACHETER
-Palmarès
+Palmares
 Pos.
 Age
 Contrat
@@ -237,31 +237,31 @@ Discipline
 Statut
 Refuser transfert
 Mettre en vente
-Retirer des transferts
+Retirer du Mercato
 Statut du joueur
 Ce joueur a 1 carton jaune
 Ce joueur a <DATA> cartons jaunes
 Suspendu pour 1 semaine
 Suspendu pour <DATA> semaines
-Blessé pour <DATA>
-Transferts
+Blesse pour <DATA>
+Mercato
 En transfert depuis <DATA>
-Réclame un transfert
-Réclame un transfert depuis <DATA>
+Reclame un transfert
+Reclame un transfert depuis <DATA>
 Prolonger contrat
-années
+annees
 NON!
 Retraite joueur!
 OK pour STOP, ou ici pour annuler!
 Equipe
 Buts  Joueur             Equipe
-Remake du célèbre jeu produit
+Remake du celebre jeu produit
 par Dino Dini & Steve Screech en 1990
 ce jeu est une reproduction,
-très fidèle du jeu original,
+tres fidele du jeu original,
 avec l'ajout de nouvelles options:
 chaque equipe a son propre style,
-terrains variés, ralentis,
+terrains varies, ralentis,
 et pleins d'autres ajouts...!
 Pour les mise a jour, suivez nous sur:
 JOUER!
@@ -272,7 +272,7 @@ PRIX
 Nom
 Pos.
 Age
-Habileté
+Habilete
 Disponible
 ACHETER
 Annuler
@@ -305,16 +305,16 @@ Total tirs
 possession
 est suspendu
 est blesse!
-<GIOC> a purgé sa suspension
-<GIOC> est rétabli de sa blessure
-<GIOC> réclame un transfert pour faire avancer sa carrière.
+<GIOC> a purge sa suspension
+<GIOC> est retabli de sa blessure
+<GIOC> reclame un transfert pour faire avancer sa carriere.
 Semaine
-Année
+Annee
 P
 S
 A
 E
-Changement
+Remp.
 TIRS AU BUT
 T
 PR
@@ -324,24 +324,24 @@ Changement
 Tactique
 mesh
 changement
-Tactique changée
+Tactique changee
 OK
 touche
-5 mètres
+5 metres
 Corner
 GOAL
-Palmarès du Club
+Palmares du Club
 Finances
-Evaluation des dirigeants
+Avis des dirigeants
 OK
 Le CLUB
 OPTIONS
-Voir les résultats des autres matches
-Sauvegarder dans mémoire interne
+Voir les resultats des autres matches
+Sauvegarder dans memoire interne
 Sauvegarder dans media externe
 MATCH Plein-ecran Automatique
 Sauvegarder
-ceci est la version démo! Pour sauvegarder votre carrière et voir les ralentis, chargez la version Android ou Windows:
+ceci est la version demo! Pour sauvegarder votre carriere et voir les ralentis, chargez la version Android ou Windows:
 continuer
 quitter
 Italiens
@@ -350,7 +350,7 @@ Choix des noms
 Nouvelle partie
 Charger partie
 Partie Demo
-Année
+Annee
 Equipe
 Entr./Joueur
 Age
@@ -358,29 +358,29 @@ Position
 JEU EN POSTE
 JEU EN EQUIPE
 Version pour Android
-L'application donne accès a un support
-pour sauvegarder les données de jeu.
-Au début du jeu se crée un
-dossier nommé
-dans lequel toutes les données sont sauvegardées.
+L'application donne acces a un support
+pour sauvegarder les donnees de jeu.
+Au debut du jeu se cree un
+dossier nomme
+dans lequel toutes les donnees sont sauvegardees.
 Cliquez CONTINUER pour choisir
 le type de media voulu.
 CONTINUER
-Mémoire interne
+Memoire interne
 Support externe
 Choisir le support sur
-sauvegarder données de jeu
+sauvegarder donnees de jeu
 Version FLASH 
 La version flash a plusieurs limitations:
-Pas de sauvegarde des données de jeu
+Pas de sauvegarde des donnees de jeu
 et pas de modification des maillots.
-Dans la version complète vous pouvez
-sauvegarder vos carrières, tactiques et maillots.
+Dans la version complete vous pouvez
+sauvegarder vos carrieres, tactiques et maillots.
 Pour profiter de toutes les options
-téléchargez les versions ANDROID & WINDOWS.
+telechargez les versions ANDROID & WINDOWS.
 CONTINUE
 Ceci est une version beta, si vous trouvez des erreurs dans la traduction francaise contactez nous sur:
-Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de réseaux sociaux!!
+Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de reseaux sociaux!!
 Partie Demo Arcade
 Buteur:
 R
@@ -396,9 +396,9 @@ Coup franc - distance:
 HTML5 Version
 The HTML5 version has many limitations.
 Sortie:
-Entrée:
-Hommage au célèbre jeu créé par Dino Dini en 1990. Ce jeu reproduit le graphisme, les sons et la jouabilite du Commodore Amiga. Aucun des développeurs du jeu original n'est impliqué dans ce projet. Pour suivre les projets de jeux de Dino Dini rendez vous sur: www.twitter.com/dndn1011
-Ce remake comprend de nouvelles fonctionnalités et options par rapports aux versions originales des 90's de Kick Off 2 & Player Manager. Pour les mise à jour, suivez nous sur:
+Entree:
+Hommage au celebre jeu cree par Dino Dini en 1990. Ce jeu reproduit le graphisme, les sons et la jouabilite du Commodore Amiga. Aucun des developpeurs du jeu original n'est implique dans ce projet. Pour suivre les projets de jeux de Dino Dini rendez vous sur: www.twitter.com/dndn1011
+Ce remake comprend de nouvelles fonctionnalites et options par rapports aux versions originales des 90's de Kick Off 2 & Player Manager. Pour les mise a jour, suivez nous sur:
 1er
 2e
 3e
@@ -422,7 +422,7 @@ Ce remake comprend de nouvelles fonctionnalités et options par rapports aux ver
 21e
 22e
 ---
-Contrôle de balle
+Controle de balle
 Facile
 Normal
 Difficile
