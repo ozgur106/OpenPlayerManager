@@ -1,4 +1,3 @@
-PLAYER MANAGER
 Adams
 Ahern
 Aldridge
@@ -39,6 +38,7 @@ Connell
 Connolly
 Connor
 Conroy
+Coonan
 Cooney
 Corcoran
 Costello
@@ -51,19 +51,16 @@ Curran
 Curtin
 Cusack
 Daly
-de Barra
-de Búrca
-deBláca
+Deering
 Dempsey
 Devine
 Dillon
 Dinneen
 Doherty
 Dolan
-Donnelly 
+Donnelly
 Donoghue
 Donovan
-Doyle
 Doyle
 Driscoll
 Duff
@@ -90,35 +87,33 @@ Giles
 Givens
 Griffin
 Guinness
-Haffernan   
+Haffernan
 Halloran
 Hand
-Handley 
-Hannahan   
+Handley
+Hannahan
 Hannan
 Hanratty
 Harney
 Harraghy
-Harshaw 
+Harshaw
 Hayden
 Hayes
 Healy
-Healy
 Heffernan
-Hennessey 
-Hickey 
+Hennessey
+Hickey
 Higgins
-Hines 
+Hines
 Hoey
 Hogan
 Horan
 Houghton
 Houston
 Hughes
-Hughes
 Hynes
 Irwin
-Jennings 
+Jennings
 Joyce
 Kane
 Kavanagh
@@ -126,7 +121,7 @@ Keane
 Keating
 Keeffe
 Kelleher
-Kelly 
+Kelly
 Kennedy
 Kenny
 Keogh
@@ -142,8 +137,8 @@ Lynch
 Lyons
 Mac Dónaill
 Mac Gabhann
-MacAteer 
-MacAuley 
+MacAteer
+MacAuley
 MacAuliffe
 MacBride
 MacCann
@@ -160,10 +155,10 @@ Maher
 Mahoney
 Malone
 Martin
-McCarthy 
+McCarthy
 McGowan
 McGrath
-McLoughlin 
+McLoughlin
 McNamara
 Meany
 Meeney
@@ -176,20 +171,12 @@ Mulcahy
 Mulhall
 Mullan
 Mullins
-Murphy 
+Murphy
 Murray
 Murtagh
 Nolan
 Noonan
 Nugent
-ó Briain
-ó Broin
-ó Ceallaigh
-ó hÓgáin
-ó Maoilriain
-ó Néill
-ó Nualláin
-ó Súilleabháin
 O'Brien
 O'Callaghan
 O'Connor
@@ -207,13 +194,13 @@ O’Driscoll
 O’Flaherty
 O’Grady
 O’Hagan
-O’Halloran 
-O’Hara 
+O’Halloran
+O’Hara
 O’Hegarty
-O’Keeffe 
+O’Keeffe
 O’Mahoney
-O’Malley 
-O’Meara 
+O’Malley
+O’Meara
 Pearse
 Phelan
 Plunket
@@ -249,3 +236,15 @@ Tully
 Walsh
 Walshe
 Ward
+de Barra
+de Búrca
+deBláca
+Ó Ríordáin
+ó Briain
+ó Broin
+ó Ceallaigh
+ó Maoilriain
+ó Nualláin
+ó Néill
+ó Súilleabháin
+ó hÓgáin
