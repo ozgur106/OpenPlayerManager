@@ -4,16 +4,16 @@ DEF
 MIL
 ATT
 Gardien
-Defenseur
+Défenseur
 Milieu
 Attaquant
 Sem.
 Gardiens
-Defense
+Défense
 Milieu
 Attaque
 Classement
-Resultats
+Résultats
 Affiches
 Buteurs
 PTS
@@ -23,7 +23,7 @@ N
 P
 BP
 BC
-Resultat
+Résultat
 Acc.
 Normal
 Div
@@ -33,7 +33,7 @@ Div
 4
 FORCES:
 Gardiens
-Defense
+Défense
 Milieu
 Attaque
 ENTR. INDIV.
@@ -43,7 +43,7 @@ ENTR. SUPPL.
 Achats de joueurs
 Salaires
 Nouveaux contrats
-Interêts
+Intérêts
 Autres charges
 Vente de joueurs
 Recettes de matches
@@ -52,7 +52,7 @@ Sponsors
 Autres recettes
 Total
 Budget courant
-Limite de credit
+Limite de crédit
 Total disponible
 Achats de joueurs
 Vente de joueurs
@@ -81,10 +81,10 @@ Bon travail, continuez!
 Les dirigeants sont contents!
 Les dirigeants sont joyeux!
 Les dirigeants sont satisfaits, mais attendent mieux...
-Les dirigeants sont mecontents...
+Les dirigeants sont mécontents...
 On attend du changement...
-Les dirigeants pensent que la situation est delicate...
-On parle beaucoup d'un nouvel entraineur...
+Les dirigeants pensent que la situation est délicate...
+On parle beaucoup d'un nouvel entraîneur...
 Vous avez toute notre confiance!
 An/Sem
 EQUIPE
@@ -92,38 +92,38 @@ Entraineur-Joueur
 OK
 Annuler
 SUPPRIMER
-Vous utilisez deja cette tactique!
+Vous utilisez déjà cette tactique!
 Une pause est bienvenue!
 Un seul changement tactique par semaine!
-Nous ne pouvons pas depenser autant!
+Nous ne pouvons pas dépenser autant!
 Pas plus de 24 joueurs!
 Vous voulez acheter votre propre joueur?
 Seulement 2 achats de joueurs par semaine.
-Quoi? Nous sommes deja elimines!
-L'aventure en coupe est deja finie...
+Quoi? Nous sommes déjà élimines!
+L'aventure en coupe est déjà finie...
 Dommage de manquer les demi-finales!
-Nous perdons en demi-finale...
-Une defaite en finale reste un bon resultat!
+Pfff... Nous perdons en demi-finale...
+Une défaite en finale reste un bon resultat...
 En route pour le tour suivant!
-Bravo, nous passons le second tour!
+Bravo, nous avons atteint le 3ème tour!
 Youhou! En quarts de finale!
 Excellent! Plus qu'un tour avant la finale!
-On est en finale, on est en finale!
+On est en finale!!!  Youhou!!! On est en finale!!!
 La COUPE est a NOUS !!!
-VOUS ETES VIRE !
+Vous êtes viré !!!
 Malheureusement nous devons nous expliquer!
 <TEAM> veut vous faire une offre pour <GIOC>
-Hooligans a <TEAM>! <DATA> K d'amende!
+Hooligans à <TEAM>! <DATA> K d'amende!
 Contrat sponsoring de <DATA>K pour <TEAM>!
-Nous sommes promus en <DATA>! Limite de credit <DATA2> K!
-Nous sommes relegues en <DATA>! Limite de credit <DATA2> K!
+Nous sommes promus en <DATA>! Limite de crédit <DATA2> K!
+Nous sommes relégués en <DATA>! Limite de crédit <DATA2> K!
 Un peu de patience...
 Les Equipes
 Load
 Save
 OK
 Ligue - Sem <DATA>
-<GIOC>, un junior du club integre l'equipe!
+<GIOC>, un junior du club intègre l'équipe!
 Equipe
 Ligue
 Coupe
@@ -137,8 +137,8 @@ Nouv. Saison
 Coupes
 Finales
 1/2 Finales
-1/4 de Finales
-PALMARES DU CLUB
+1/4 Finales
+Palmarès du Club
 Ann.  Lig Pos  J  V  N  D  BP BC  PT
 Finances
 +
@@ -146,30 +146,30 @@ Finances
 Semaine dern.
 Cette semaine
 Statistiques du manager
-Taux de reussite:
+Taux de réussite:
 Abandonner!
-Quitter l'equipe de <TEAM>?
+Quitter l'équipe de <TEAM>?
 OUI!
 NON!
 Nous sommes sur un nuage!
 Le moral est au top!
-Aucun probleme a signaler!
-Le moral est tres bon.
-Les joueurs commencent a douter...
-La depression nous guette...
+Aucun problème à signaler!
+Le moral est très bon.
+Les joueurs commencent à douter...
+La dépression nous guette...
 Le COACH
-Entrainement
+Entraînement
 Joueur              Pos   Nouv.
 Changer:
 Quitter
 Changer Tactique
 Mercato
-+
--
+>
+<
 Joueur           Age Equipe          Div
 OK
-Hmmm ...
-Non merci!
+Hmmm...
+Non!
 Joueurs:
 1er tour
 2e tour
@@ -178,7 +178,7 @@ Quart-finales
 Demi-finales
 Finale
 Finales
-La COUPE
+La Coupe
 Quart-finales
 Demi-finales
 Finale
@@ -187,26 +187,26 @@ tab
 VS
 Rapide
 Voir
-Preparation...
+Préparation...
 domicile VS <TEAM>
-exterieur VS <TEAM>
+extérieur VS <TEAM>
 contre <TEAM>
 Position
 Age
 Taille
 Poids
 Vitesse
-Agilite
+Agilité
 Endurance
-Resistance
-Agressivite
+Résistance
+Agressivité
 Moral
 Passes
 Shoot
 Tackle
 Gardien
 Bas
-Fache
+Fâché
 OK
 Bon
 Super
@@ -227,7 +227,7 @@ Forces
 PRIX
 Disponible
 ACHETER
-Palmares
+Palmarès
 Pos.
 Age
 Contrat
@@ -243,25 +243,25 @@ Ce joueur a 1 carton jaune
 Ce joueur a <DATA> cartons jaunes
 Suspendu pour 1 semaine
 Suspendu pour <DATA> semaines
-Blesse pour <DATA>
+Blessé pour <DATA>
 Mercato
 En transfert depuis <DATA>
-Reclame un transfert
-Reclame un transfert depuis <DATA>
+Réclame un transfert
+Réclame un transfert depuis <DATA>
 Prolonger contrat
-annees
+années
 NON!
 Retraite joueur!
 OK pour STOP, ou ici pour annuler!
 Equipe
 Buts  Joueur             Equipe
-Jeu "retro" largement inspire par Kick Off 2 & Player Manager
-edite pr ANCO en 1990.
+Jeu "retro" largement inspiré par Kick Off 2 & Player Manager
+édité pr ANCO en 1990.
 Ce jeu est un remake
-tres proche des graphiques originaux de Steve Screech,
+très proche des graphiques originaux de Steve Screech,
 avec l'ajout de nombreuses nouvelles options:
-chaque equipe a ses propres maillots,
-terrains varies, ralentis,
+chaque équipe à ses propres maillots,
+terrains variés, ralentis,
 et pleins d'autres ajouts...!
 Pour les mise a jour, suivez nous sur:
 JOUER!
@@ -272,7 +272,7 @@ PRIX
 Nom
 Pos.
 Age
-Habilete
+Habileté
 Disponible
 ACHETER
 Annuler
@@ -299,17 +299,17 @@ semaines
 1 mois
 plus d'un mois
 plus de <DATA> mois
-fautes subies
+Fautes subies
 Tirs au but
 Total tirs
-possession
+Possession
 est suspendu
-est blesse!
-<GIOC> a purge sa suspension
-<GIOC> est retabli de sa blessure
-<GIOC> reclame un transfert pour faire avancer sa carriere.
+est blessé!
+<GIOC> a purgé sa suspension
+<GIOC> est rétabli de sa blessure
+<GIOC> réclame un transfert pour faire avancer sa carrière.
 Semaine
-Annee
+Année
 P
 S
 A
@@ -324,24 +324,24 @@ Changement
 Tactique
 mesh
 changement
-Tactique changee
+Tactique changée
 OK
 touche
-5 metres
+5 mètres
 Corner
 GOAL
-Palmares du Club
+Palmarès du Club
 Finances
 Avis des dirigeants
 OK
 Le CLUB
 OPTIONS
-Voir les resultats des autres matches
-Sauvegarder dans memoire interne
-Sauvegarder dans media externe
-MATCH Plein-ecran Automatique
+Voir les résultats des autres matches
+Sauvegarder dans mémoire interne
+Sauvegarder dans média externe
+MATCH Plein-écran Automatique
 Sauvegarder
-ceci est la version demo! Pour sauvegarder votre carriere et voir les ralentis, chargez la version Android ou Windows:
+ceci est la version demo! Pour sauvegarder votre carrière et voir les ralentis, chargez la version Android ou Windows:
 continuer
 quitter
 Italiens
@@ -350,7 +350,7 @@ Choix des noms
 Nouvelle partie
 Charger partie
 Partie Demo
-Annee
+Année
 Equipe
 Entr./Joueur
 Age
@@ -358,29 +358,29 @@ Position
 JEU EN POSTE
 JEU EN EQUIPE
 Version pour Android
-L'application donne acces a un support
-pour sauvegarder les donnees de jeu.
-Au debut du jeu se cree un
-dossier nomme
+L'application donne accès à un support
+pour sauvegarder les données de jeu.
+Au début du jeu se crée un
+dossier nommé
 dans lequel toutes les donnees sont sauvegardees.
 Cliquez CONTINUER pour choisir
-le type de media voulu.
+le type de média voulu.
 CONTINUER
 Memoire interne
 Support externe
 Choisir le support sur
-sauvegarder donnees de jeu
+sauvegarder données de jeu
 Version FLASH 
 La version flash a plusieurs limitations:
-Pas de sauvegarde des donnees de jeu
+Pas de sauvegarde des données de jeu
 et pas de modification des maillots.
-Dans la version complete vous pouvez
-sauvegarder vos carrieres, tactiques et maillots.
+Dans la version complète vous pouvez
+sauvegarder vos carrières, tactiques et maillots.
 Pour profiter de toutes les options
-telechargez les versions ANDROID & WINDOWS.
+téléchargez les versions ANDROID & WINDOWS.
 CONTINUE
-Ceci est une version beta, si vous trouvez des erreurs dans la traduction francaise contactez nous sur:
-Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de reseaux sociaux!!
+Ceci est une version béta, si vous trouvez des erreurs dans la traduction française contactez nous sur:
+Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de réseaux sociaux!!
 Partie Demo Arcade
 Buteur:
 R
@@ -397,8 +397,8 @@ HTML5 Version
 La version HTML5 comprend plusieurs limitations.
 Sort:
 Entre:
-Un jeu de Football & gestion, inspire par les jeux Kick Off 2 & Player Manager de Anco.
-Ce jeu "retro" reproduit les graphismes 2D du Commodore Amiga, avec vue aerienne du terrain et jouablilite rapide.
+Un jeu de Football & gestion, inspiré par les jeux Kick Off 2 & Player Manager de Anco.
+Ce jeu "retro" reproduit les graphismes 2D du Commodore Amiga, avec vue aérienne du terrain et jouablilité rapide.
 1er
 2e
 3e
@@ -422,7 +422,7 @@ Ce jeu "retro" reproduit les graphismes 2D du Commodore Amiga, avec vue aerienne
 21e
 22e
 ---
-Controle de balle
+Contrôle de balle
 Facile
 Normal
 Difficile
