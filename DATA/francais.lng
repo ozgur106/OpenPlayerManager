@@ -1,4 +1,4 @@
-PLAYER MANAGER
+﻿PLAYER MANAGER
 GOA
 DEF
 MIL
@@ -12,9 +12,15 @@ Gardiens
 Défense
 Milieu
 Attaque
+<<<<<<< HEAD
 Classement
 Résultats
 Affiches
+=======
+Tableaux
+Résultats
+Matches
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Buteurs
 PTS
 J
@@ -84,7 +90,11 @@ Les dirigeants sont satisfaits, mais attendent mieux...
 Les dirigeants sont mécontents...
 On attend du changement...
 Les dirigeants pensent que la situation est délicate...
+<<<<<<< HEAD
 On parle beaucoup d'un nouvel entraîneur...
+=======
+On parle beaucoup d'un nouvel entraineur...
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Vous avez toute notre confiance!
 An/Sem
 EQUIPE
@@ -99,11 +109,19 @@ Nous ne pouvons pas dépenser autant!
 Pas plus de 24 joueurs!
 Vous voulez acheter votre propre joueur?
 Seulement 2 achats de joueurs par semaine.
+<<<<<<< HEAD
 Quoi? Nous sommes déjà élimines!
 L'aventure en coupe est déjà finie...
 Dommage de manquer les demi-finales!
 Pfff... Nous perdons en demi-finale...
 Une défaite en finale reste un bon resultat...
+=======
+Quoi? Nous sommes deja éliminés!
+L'aventure en coupe est déjà finie...
+Dommage de manquer les demi-finales!
+Nous perdons en demi-finale...
+Une défaite en finale reste un bon résultat!
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 En route pour le tour suivant!
 Bravo, nous avons atteint le 3ème tour!
 Youhou! En quarts de finale!
@@ -116,7 +134,11 @@ Malheureusement nous devons nous expliquer!
 Hooligans à <TEAM>! <DATA> K d'amende!
 Contrat sponsoring de <DATA>K pour <TEAM>!
 Nous sommes promus en <DATA>! Limite de crédit <DATA2> K!
+<<<<<<< HEAD
 Nous sommes relégués en <DATA>! Limite de crédit <DATA2> K!
+=======
+Nous sommes relegues en <DATA>! Limite de crédit <DATA2> K!
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Un peu de patience...
 Les Equipes
 Load
@@ -129,7 +151,7 @@ Ligue
 Coupe
 Club
 Coach
-Mercato
+Transferts
 Tactique
 Match
 Options
@@ -153,19 +175,33 @@ OUI!
 NON!
 Nous sommes sur un nuage!
 Le moral est au top!
+<<<<<<< HEAD
 Aucun problème à signaler!
+=======
+Aucun problème a signaler!
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Le moral est très bon.
 Les joueurs commencent à douter...
 La dépression nous guette...
 Le COACH
+<<<<<<< HEAD
 Entraînement
+=======
+EntraÎnement
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Joueur              Pos   Nouv.
 Changer:
 Quitter
 Changer Tactique
+<<<<<<< HEAD
 Mercato
 >
 <
+=======
+Liste des transferts
++
+-
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Joueur           Age Equipe          Div
 OK
 Hmmm...
@@ -204,14 +240,18 @@ Moral
 Passes
 Shoot
 Tackle
-Gardien
+Conserv.
 Bas
+<<<<<<< HEAD
 Fâché
+=======
+Mécontent
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 OK
 Bon
 Super
 Extra
-Mat.
+Matches
 Buts
 Moy.
 Int
@@ -237,14 +277,18 @@ Discipline
 Statut
 Refuser transfert
 Mettre en vente
-Retirer du Mercato
+Retirer des transferts
 Statut du joueur
 Ce joueur a 1 carton jaune
 Ce joueur a <DATA> cartons jaunes
 Suspendu pour 1 semaine
 Suspendu pour <DATA> semaines
 Blessé pour <DATA>
+<<<<<<< HEAD
 Mercato
+=======
+Transferts
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 En transfert depuis <DATA>
 Réclame un transfert
 Réclame un transfert depuis <DATA>
@@ -255,12 +299,21 @@ Retraite joueur!
 OK pour STOP, ou ici pour annuler!
 Equipe
 Buts  Joueur             Equipe
+<<<<<<< HEAD
 Jeu "retro" largement inspiré par Kick Off 2 & Player Manager
 édité pr ANCO en 1990.
 Ce jeu est un remake
 très proche des graphiques originaux de Steve Screech,
 avec l'ajout de nombreuses nouvelles options:
 chaque équipe à ses propres maillots,
+=======
+Remake du célèbre jeu produit
+par Dino Dini & Steve Screech en 1990
+ce jeu est une reproduction,
+très fidèle du jeu original,
+avec l'ajout de nouvelles options:
+chaque equipe a son propre style,
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 terrains variés, ralentis,
 et pleins d'autres ajouts...!
 Pour les mise a jour, suivez nous sur:
@@ -304,7 +357,11 @@ Tirs au but
 Total tirs
 Possession
 est suspendu
+<<<<<<< HEAD
 est blessé!
+=======
+est blesse!
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 <GIOC> a purgé sa suspension
 <GIOC> est rétabli de sa blessure
 <GIOC> réclame un transfert pour faire avancer sa carrière.
@@ -314,7 +371,7 @@ P
 S
 A
 E
-Remp.
+Changement
 TIRS AU BUT
 T
 PR
@@ -332,16 +389,23 @@ Corner
 GOAL
 Palmarès du Club
 Finances
-Avis des dirigeants
+Evaluation des dirigeants
 OK
 Le CLUB
 OPTIONS
 Voir les résultats des autres matches
 Sauvegarder dans mémoire interne
+<<<<<<< HEAD
 Sauvegarder dans média externe
 MATCH Plein-écran Automatique
 Sauvegarder
 ceci est la version demo! Pour sauvegarder votre carrière et voir les ralentis, chargez la version Android ou Windows:
+=======
+Sauvegarder dans media externe
+MATCH Plein-ecran Automatique
+Sauvegarder
+ceci est la version démo! Pour sauvegarder votre carrière et voir les ralentis, chargez la version Android ou Windows:
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 continuer
 quitter
 Italiens
@@ -358,15 +422,23 @@ Position
 JEU EN POSTE
 JEU EN EQUIPE
 Version pour Android
+<<<<<<< HEAD
 L'application donne accès à un support
 pour sauvegarder les données de jeu.
 Au début du jeu se crée un
 dossier nommé
 dans lequel toutes les donnees sont sauvegardees.
+=======
+L'application donne accès a un support
+pour sauvegarder les données de jeu.
+Au début du jeu se crée un
+dossier nommé
+dans lequel toutes les données sont sauvegardées.
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Cliquez CONTINUER pour choisir
 le type de média voulu.
 CONTINUER
-Memoire interne
+Mémoire interne
 Support externe
 Choisir le support sur
 sauvegarder données de jeu
@@ -379,7 +451,11 @@ sauvegarder vos carrières, tactiques et maillots.
 Pour profiter de toutes les options
 téléchargez les versions ANDROID & WINDOWS.
 CONTINUE
+<<<<<<< HEAD
 Ceci est une version béta, si vous trouvez des erreurs dans la traduction française contactez nous sur:
+=======
+Ceci est une version beta, si vous trouvez des erreurs dans la traduction francaise contactez nous sur:
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de réseaux sociaux!!
 Partie Demo Arcade
 Buteur:
@@ -394,11 +470,19 @@ SAUVER REPLAY
 VOIR REPLAY'S
 Coup franc - distance:
 HTML5 Version
+<<<<<<< HEAD
 La version HTML5 comprend plusieurs limitations.
 Sort:
 Entre:
 Un jeu de Football & gestion, inspiré par les jeux Kick Off 2 & Player Manager de Anco.
 Ce jeu "retro" reproduit les graphismes 2D du Commodore Amiga, avec vue aérienne du terrain et jouablilité rapide.
+=======
+The HTML5 version has many limitations.
+Sortie:
+Entrée:
+Hommage au célèbre jeu créé par Dino Dini en 1990. Ce jeu reproduit le graphisme, les sons et la jouabilite du Commodore Amiga. Aucun des développeurs du jeu original n'est impliqué dans ce projet. Pour suivre les projets de jeux de Dino Dini rendez vous sur: www.twitter.com/dndn1011
+Ce remake comprend de nouvelles fonctionnalités et options par rapports aux versions originales des 90's de Kick Off 2 & Player Manager. Pour les mise à jour, suivez nous sur:
+>>>>>>> de28585ac2964bc80391aa651545bb94d4a42d60
 1er
 2e
 3e
@@ -426,5 +510,44 @@ Contrôle de balle
 Facile
 Normal
 Difficile
+Le conseil d'administration est ravi!
+Bon travail, continuez ainsi!
+Le conseil d'administration est enchanté!
+Le conseil d'administration est heureux!
+Le conseil d'administration est satisfait, mais apprécierait de l'amélioration!
+Le conseil d'administration est mécontent!
+Le conseil d'administration est inquiet. Les choses feraient bien de s'améliorer!
+Le conseil d'administration est très préoccupé!
+Le conseil d'administration estime que la situation actuelle est une honte!
+Le conseil d'administration pense que, dans les circonstances actuelles, votre position est des plus précaire!
+Vous avez toute la confiance du conseil d'administration!
+Nous sommes au septième ciel. Le moral est magnifique!
+Absolument aucun problème de confiance ici Coach!
+Le moral est très bon!
+Le moral est bon!
+Le moral est correct!
+Le doute commence à apparaître chez certains joueurs!
+Nous sommes loin de nos meilleures performances!
+La dépression s'est installée chez les gars!
+J'entends beaucoup de murmures inquiétants dans les vestiaires!
+Le moral touche le fond!
+Il y a des bagarres entre nos joueurs!
+Select start options
+Difficulty level
+EASY
+You're a 23-24 years old player, you've a winning team with a rich budget to buy great players.
+NORMAL
+You're a 28-29 years old player, your team is good but has to be improved and need new players.
+HARD
+You're a 33-34 years old player, try to avoid your team relegation but your finances are bad.
+Select Championship
+Edit player names
+LOAD PLAYER NAMES
+SAVE PLAYER NAMES
+A free Football management game inspired by Anco games: Kick Off 2 & Player Manger.
+The Player Manager 2015 source code is 100% original work. Made by "Kick Off World" community members.
+This retro game reproduces the Commodore Amiga 2D graphics, with top down full size fields And fast game play.
+The Player Manager 2015 is continous development And it'll be updated regularly, check For New updates on our socials, follow us on:
+New name
 
 <fine testi di gioco>
