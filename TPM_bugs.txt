@@ -2,7 +2,7 @@ The Player Manager bugs
 
 FF= fixed bug
 
-6: Player stats ( what is a.r ) 
+
 7: Players you own/buy don`t have any previous playing experience.
 8: Cup games with really high scores
 13: When you`re chasing a CPU play who has the ball, he seems to have a box around him that you can`t enter ( get close to )
@@ -26,7 +26,7 @@ for example b.babb instead of B.Babb ( it`s Babb in the names file )
 34: It seems's that the goals scored in cup are added to the league scorers table. Is it right ?
 35: I think, in the original version, in the player stats, we can see the stats of the last season (games, goals...) is it correct ?
 
-
+FF: Player stats ( what is a.r )
 FF: You cannot do a standing header, it jumps in the direction the player is facing.
 FF: 3: should be week 3
 FF: 3a should be 3rd
