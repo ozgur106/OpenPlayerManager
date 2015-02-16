@@ -11,8 +11,6 @@ FF= fixed bug
 18: Keeper never throws the ball out.
 19: Reserves ( players that make up your team when you don`t have enough ) Their names aren`t initialised.
 for example b.babb instead of B.Babb ( it`s Babb in the names file ) 
-20: 3: should be week 3
-21: You cannot do a standing header, it jumps in the direction the player is facing. 
 22: Animation glitch on player goal celebration. 
 23: No dribble sounds.
 24: on Mac fn F1 doesn't go full screen, fullscreen works on action game only
@@ -29,8 +27,8 @@ for example b.babb instead of B.Babb ( it`s Babb in the names file )
 35: I think, in the original version, in the player stats, we can see the stats of the last season (games, goals...) is it correct ?
 
 
-
-
+FF: You cannot do a standing header, it jumps in the direction the player is facing.
+FF: 3: should be week 3
 FF: 3a should be 3rd
 FF: Windows pointer on top of PM ball
 FF: Playing on fast/normal - ball noises missing
