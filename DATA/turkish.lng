@@ -15,7 +15,7 @@ Forvet
 Puan Tabloları 
 Results 
 Fikstürler
-Goller 
+Gol Krallığı
 PT 
 P 
 W 
@@ -131,28 +131,28 @@ Club
 Trainer 
 Transfers 
 Tactics 
-Match day 
-Options 
-New Season 
-Cup Winners 
-Finalists 
-Semifinalists 
-Qtr-Finalists 
-Club Records 
+Maç Günü 
+Seçenekler
+Yeni Sezon 
+Kupa Galipleri 
+Finale Kalanlar
+Yarı Finale Kalanlar
+Çeyrek Finale Kalanlar 
+Club Records
 YEAR Div GF GA PT Pos PWDL 
 Finances 
 In 
 Out 
-Previous week 
-This week 
+Önceki Hafta 
+Bu Hafta
 Managers career figures 
 Success rate: 
 Resign 
 Resign as manager of <TEAM>? 
-YES! 
-NO! 
+EVET! 
+HAYIR! 
 We're all over the moon! 
-Morale is superb! 
+Moral Super Ötesi! 
 Definitely no confidence problems here boss! 
 Morale is very good. 
 There are the beginnings of doubt Among our players. 
@@ -187,29 +187,29 @@ pen
 VS 
 Fast 
 Watch 
-MATCH IN PROGRESS ... 
+ŞU AN MAÇ OYNANIYOR ... 
 at home Against <TEAM> 
 Against away <TEAM> 
 Against <TEAM> 
 Position 
-Age 
-Height 
-Weight 
+Yaş 
+Boy 
+Kilo 
 Pace 
 Agility 
-Stamina 
+Dayanıklılık
 Resilience 
 Aggression 
-Morals 
-Passing 
-Shooting 
-Tackling 
-Keeping 
-Low 
-Unhappy 
+Moral
+Pas 
+Şut
+Top Çalma 
+Kalecilik 
+Düşük 
+Mutsuz 
 Ok 
-Good 
-Great 
+İyi
+Harika 
 Excel 
 Games 
 Goals 
@@ -219,7 +219,7 @@ Int
 2
 3
 4
-Player Information 
+Oyuncu Bilgileri 
 Name 
 cm 
 kg 
@@ -228,20 +228,20 @@ PRICE
 Available 
 BUY PLAYER 
 History 
-Pos 
-Age 
-Contract 
+Pozisyonu
+Yaş 
+Sözleşme 
 Valuation 
 Player fitness 
 Disciplinary 
 Transfer status 
-Deny transfer 
-Transfer Player 
-Cancel transfer 
-Player status 
+Transferi Reddet 
+Oyuncuyu Transfer Et 
+Transferden Vazgeç 
+Oyuncu Durumu 
 The player: has a yellow card 
 The player HAS <DATA> yellow cards 
-Suspended for a week 
+Bu hafta Cezalı 
 Suspended for <DATA> weeks 
 Injured for <DATA> 
 Transfer list 
@@ -253,11 +253,11 @@ years
 NO! 
 Stop being white a player! 
 To stop press OK now, or click here to cancel! 
-Team 
+Takım 
 Player Team Goal 
 Retrogame Largely inspired by Kick Off 2 Player & Manager 
 ANCO from in 1990 
-This game is a remake, 
+Bu oyun restore edilmiştir, 
 very close to the original game graphics by Steve Screech, 
 with the addition of Many new options: 
 Each Team Has Its own custom jersey, 
