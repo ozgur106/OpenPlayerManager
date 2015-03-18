@@ -84,8 +84,8 @@ Yönetim Kurulu hoşnut, takımın gelişmesini istiyor ..
 Yönetim Kurulu mutsuz ve üzgün.. 
 Daha iyi geliştirmen düşünülüyor .. 
 Yönetim Kurulu mevcut durumu utandırıcı buluyor. 
-The Board looks your position as MOST tenuous under present Circumstances .. 
-You have the board's full confidence .. 
+Yönetim Kurulu bu şartlar altında takımdaki geleceğini karanlık görüyor .. 
+Yönetim Kurulu sana tam güven içinde .. 
 Yıl / Ay 
 Takım 
 Oyuncu-Menejer 
@@ -95,42 +95,42 @@ SİL
 Zaten bu taktiği kullanıyorsunuz ! 
 Tek ihtiyacımız biraz ara vermek! 
 Haftada sadece bir kez taktik değiştirebilirsiniz! 
-We Can not Afford Spending so high! 
+Bu kadar yüksek harcamaları kulübümüz karşılayamaz ! 
 24 Futbolcudan fazlasını takımda bulunduramazsınız! 
-Why Would You buy a player already yours? 
-You can only buy two players per week. 
+Neden kendi oyuncunu satın almaya çalışıyorsun? 
+Haftada sadece 2 oyuncu satın alabilirsin. 
 Zavallı seni, Kupadan elendik ! 
 Zavallı seni, Kupadan elendik !  
 Zavallı seni, Kupadan elendik !  
 Zavallı seni, Yarı Finali Kaybettik !  
 Finali Kaybettik ama olsun Finale kadar çıkmış olduk ! 
 Güzel sonuç! Tur atladık ! 
-Nice result! Access to Round 3! 
-Good result! We are in the quarters! 
-Excellent result! We are in the semifinals! 
-Excellent result! We are in the final! 
+Güzel sonuç! 3. Turdayız ! 
+İyi Sonuç! Çeyrek Finaldeyiz! 
+Mükemmel Sonuç! Yarı Finaldeyiz! 
+Mükemmel Sonuç! Finaldeyiz! 
 Şampiyon !! Herkese Rakı Balık! 
-Unfortunately you-have-been sacked! 
-Unfortunately We Were cleared! 
-<TEAM> wants to make you an offer for <GIOC> 
-Crowd problems at <TEAM>! <DATA> K fine! 
-Sponsorship deal <DATA> K for <TEAM>! 
-We were Promoted to <DATA>! Our new credit limit is <DATA2> K! 
-We were relegated to <DATA>! Our new credit limit is <DATA2> K! 
-Please wait while game data is created 
-The Teams 
-Load 
-Save 
-Done 
-League - Week <DATA> 
-<GIOC>, a young player Was Promoted to the first team! 
-Team 
-League 
-Cup 
-Club 
-Trainer 
-Transfers 
-Tactics 
+Ne yazıkki kovuldun ! 
+Ne yazıkki! hepimiz kovulduk !
+<TAKIM> sana teklifte bulunmak istiyor <GIOC> 
+Taraftar sorunları da <TAKIM>! <VERİ> K Para Cezası! 
+Sponsorluk anlaşması <VERİ> K için <TAKIM>! 
+Kredibilitemiz yükseldi <DATA>! Yeni kredi limitimiz <DATA2> K! 
+Kredibilitemiz azaldı <DATA>! Yeni kredi limitimiz <DATA2> K! 
+Oyun verisi oluşturuluyor, Lütfen Bekleyiniz ! 
+Takımlar 
+Yükle
+Kaydet
+Tamam 
+Lig - Hafta <DATA> 
+<GIOC>, Genç takımdan bir futbolcu A takımına yükseldi! 
+Takım
+Lig 
+Kupa 
+Kulüp 
+Antrenör 
+Transferler 
+Taktikler 
 Maç Günü 
 Seçenekler
 Yeni Sezon 
@@ -138,34 +138,34 @@ Kupa Galipleri
 Finale Kalanlar
 Yarı Finale Kalanlar
 Çeyrek Finale Kalanlar 
-Club Records
-YEAR Div GF GA PT Pos PWDL 
-Finances 
-In 
-Out 
+Kulüp Başarıları
+Yıl Lig GF GA PT Poz PWDL 
+Mali Durum 
+Gelen 
+Çıkan 
 Önceki Hafta 
 Bu Hafta
-Managers career figures 
-Success rate: 
-Resign 
-Resign as manager of <TEAM>? 
+Teknik Direktör Kariyer Verileri 
+Başarı Oranı: 
+İstifa et 
+Teknik Direktörlükten istifa et <TEAM>? 
 EVET! 
 HAYIR! 
-We're all over the moon! 
+Sevinçten havalara uçmuş durumdayız! 
 Moral Super Ötesi! 
-Definitely no confidence problems here boss! 
-Morale is very good. 
-There are the beginnings of doubt Among our players. 
-Depression set in HAS Amongst the lads 
-The Coach 
-Squad Training 
-New Player Pos 
-Retrain: 
-Delete 
-Change Tactics 
-Transfer List 
-down 
-up 
+Hepimizin kendine güveni tam ! 
+Moralimiz çok iyi. 
+Oyuncular arasından şüpheler ve sıkıntılar başladı. 
+Takım depresyona girdi. 
+Antrenör
+Takım İdmanı 
+Yeni Oyuncu Pozisyonu 
+Yeniden Eğitme: 
+Sil 
+Taktik Değiştir 
+Transfer Listesi 
+aşağı 
+yukarı
 Player Team Age Div 
 Agreed 
 Hmmm ... 
